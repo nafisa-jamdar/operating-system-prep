@@ -3,4 +3,4 @@
 **Topics Covered:**
 
 
-<img width="551" alt="Image" src="https://github.com/user-attachments/assets/5734764b-89b4-4779-9c77-682de8242f52" />
+<img width="209" alt="Image" src="https://github.com/user-attachments/assets/4f127e93-2fc9-4cc8-8351-ed364d8d7fbd" />
