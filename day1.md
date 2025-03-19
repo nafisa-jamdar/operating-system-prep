@@ -4,3 +4,6 @@
 
 
 <img width="209" alt="Image" src="https://github.com/user-attachments/assets/4f127e93-2fc9-4cc8-8351-ed364d8d7fbd" />
+
+
+[📄 Open OS Notes](daywise/answers_nndl.pdf)
